@@ -28,8 +28,8 @@ public void setSalary(int salary) {
 public String getGender() {
 	return gender;
 }
-public void setGender(String gender) {
-	this.gender = gender;
+public void setGender(String a) {
+	a = gender;
 }
 public int getTaxPercentage() {
 	return taxPercentage;
